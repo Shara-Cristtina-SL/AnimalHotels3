@@ -1,0 +1,22 @@
+{
+    "tutor": [
+        {
+            "nome": "Shara",
+            "telefone": "(11) 98765-4321",
+            "email": "shara.com",
+            "id_tutor": 1
+        }
+
+    ],
+
+    "animal": [
+        {
+            "nome": "Violetta",
+            "especie": "Cachorro",
+            "raca": "SRD",
+            "idade": 5,
+            "id_animal": 1,
+            "id_tutor": 1
+        }
+    ]
+}
